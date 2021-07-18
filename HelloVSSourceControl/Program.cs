@@ -8,7 +8,7 @@ namespace HelloVSSourceControl
         {
             Console.WriteLine("Welcome to the dealership manager!");
 
-            Console.WriteLine("Press any key to end");
+            Console.WriteLine("Press a key to end");
             Console.ReadKey();
         }
     }
