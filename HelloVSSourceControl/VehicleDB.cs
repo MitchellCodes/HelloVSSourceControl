@@ -13,7 +13,7 @@ namespace HelloVSSourceControl
         /// Get a list of vehicles that are currently in stock
         /// </summary>
         /// <returns></returns>
-        public static List<string> GetAllInStockVehicles()
+        public static List<Vehicle> GetAllInStockVehicles()
         {
             throw new NotImplementedException();
         }
